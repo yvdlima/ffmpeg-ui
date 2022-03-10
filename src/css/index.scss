@@ -1,0 +1,16 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  color: rgba(255, 255, 255, 0.7);
+
+  background: rgb(76, 75, 75);
+  font-size: 1.5rem;
+  font-family: sans-serif;
+}

@@ -1,0 +1,4 @@
+/target
+dist
+src/ffmpeg/ffmpeg
+src/ffmpeg/lib
